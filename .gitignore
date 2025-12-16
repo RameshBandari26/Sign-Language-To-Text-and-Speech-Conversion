@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Dataset
+AtoZ_3.1/
+
+# Trained models
+*.h5
+
+# OS files
+.DS_Store
+Thumbs.db
