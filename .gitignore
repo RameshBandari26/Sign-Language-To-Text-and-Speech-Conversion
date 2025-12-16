@@ -14,9 +14,6 @@ venv/
 # Dataset
 AtoZ_3.1/
 
-# Trained models
-*.h5
-
 # OS files
 .DS_Store
 Thumbs.db
